@@ -27,9 +27,10 @@ python 언어를 사용하는 OpenCV 라이브러리를 이용 -> 이미지 처�
 <대표적인 라이브러리 : OpenCV(Open Source Computer Vision Library), TensorFlow, PyTorch>
 1. OpenCV는 C++, python 등 다양한 언어에서 사용할 수 있는 라이브러리로,<br>
 이미지 및 비디오 처리와 관련된 얼굴 검출, 객체 추적, 이미지 필터링 등 다양한 기능을 제공함.<br>
+
 2. TensorFlow는 구글에서 개발한 오픈소스 머신러닝 프레임워크로, 딥러닝 모델을 개발하고 학습하는데 사용함.<br>
 이미지 분류, 객체 검출, 세그멘테이션 등 다양한 딥러닝 태스크를 지원함.<br>
 
-3. PyTorch는 Facebook에서 개발한 오픈소스 머신러닝 프레임워크로,<br> TensorFlow와 마찬가지로 딥러닝 모델 개발 및 학습에 사용됨.<br>
-TensorFlow와는 다르게 동적 계산 그래프(Dynamic Computational Graph)를 사용하여 디버깅과 모델 개발에 유용하며, <br>
+3. PyTorch는 Facebook에서 개발한 오픈소스 머신러닝 프레임워크로,TensorFlow와 마찬가지로 딥러닝 모델 개발 및 학습에 사용됨.<br>
+TensorFlow와는 다르게 동적 계산 그래프(Dynamic Computational Graph)를 사용하여 디버깅과 모델 개발에 유용하며,<br>
 이미지 분류, 객체 검출 등 다양한 딥러닝 태스크를 지원함.
