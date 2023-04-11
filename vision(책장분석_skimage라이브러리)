@@ -26,3 +26,5 @@ plt.axis('off')
 
 ```
 2021년도 vision관련 논문들이 많이 출시되고 있다. 그중 가장 많이 쓰이는 모델이 YoLo인데 활용한 논문이 공개되었다.
+
+![논문 속 figure](https://velog.velcdn.com/images%2Fsuminwooo%2Fpost%2Ff64baab3-62b5-4e6f-8087-43d84bb57c91%2Fimage.png "논문figure")
