@@ -1,5 +1,6 @@
-블로그에서 불러온 책상 분석
+## 블로그에서 찾아본 책상 분석
 
+### scikit-image
 scikit-image는 이미지 처리하기 위한 파이썬 라이브러리이다.
 
 Documentation : https://scikit-image.org/
@@ -25,6 +26,31 @@ plt.imshow(edges1)
 plt.axis('off')
 
 ```
+
+### Mask-RCNN 활용
 2021년도 vision관련 논문들이 많이 출시되고 있다. 그중 가장 많이 쓰이는 모델이 YoLo인데 활용한 논문이 공개되었다.
 
 ![논문 속 figure](https://velog.velcdn.com/images%2Fsuminwooo%2Fpost%2Ff64baab3-62b5-4e6f-8087-43d84bb57c91%2Fimage.png "논문figure")
+논문에 관한 파라미터와 사용한 데이터, 결과 등을 Research of YOLO Architectue Models in Book Detection
+
+**Model**
+YOLO CONVOLUTIONAL NETWORK 활용
+1. YOLOv3(3 outputs)
+2. YOLOv3(2 outputs)
+3. Tiny YOLOv3
+
+**data**
+1. 500개 이미지(5,245권 책 포함)
+- augmentation : such as scaling, rotation, flip, cropping distortion of colours and so on.
+2. train 60%, valid 10%, test 30%
+
+**netword parameter**
+800 epochs
+size of input image – 448x448x3;
+optimizer – Adam;
+the learning rate – 0,0001;
+batch-size – 2 samples;
+metric for assessing the correctness of the class definition – AP.
+
+**result**
+![YOLO 결과](https://velog.velcdn.com/images%2Fsuminwooo%2Fpost%2F0f434bc9-6ce1-4423-bd47-b8962ca8c589%2Fimage.png "결과")
