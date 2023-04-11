@@ -25,3 +25,4 @@ plt.imshow(edges1)
 plt.axis('off')
 
 ```
+2021년도 vision관련 논문들이 많이 출시되고 있다. 그중 가장 많이 쓰이는 모델이 YoLo인데 활용한 논문이 공개되었다.
