@@ -21,7 +21,7 @@
   >
   > 결과 이미지
   > 
-  > <img src="C:/Users/demon/Desktop/yolo.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="YOLO"></img>
+  > <img src="https://github.com/qor6/SoftWare/assets/88486391/641d8b8c-66f5-4d02-9ae4-0ddf6c4ac47a" alt="YOLO"></img>
 
  
 (2) Openpose
