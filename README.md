@@ -19,6 +19,7 @@
   - 개발 결과
   > Precision : 97.1% / Recall : 95.4% / mAP50: 98.8%
   >
+  ><img src="https://github.com/qor6/SoftWare/assets/88486391/314b1f4e-f7b3-4a05-bff9-d02b28b1c8bb" alt="YOLO 결과"></img>
   > 결과 이미지
   > 
   > <img src="https://github.com/qor6/SoftWare/assets/88486391/641d8b8c-66f5-4d02-9ae4-0ddf6c4ac47a" alt="YOLO"></img>
@@ -30,9 +31,10 @@
   > 2. 
   > 3. Coco Model로 사람 관절 인식
   > 4. 사람의 어깨부터 팔꿈치, 칠꿈치부터 손까지의 각도가 수직이거나 예각이면 스마트폰을 하고 있다고 인식
-  > 4-1. 참고 이미지
+
 
   - 개발 결과
+  > <img src="https://github.com/qor6/SoftWare/assets/88486391/a5d7dca6-63ea-4501-af59-bfb005043bb2"  width="40%" height="30%" alt="Openpose"></img>
 
 
 
