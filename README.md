@@ -6,7 +6,6 @@
 - 보행자가 위험 행위를 하는 것으로 판단되면 보행자에게 경고 알림을 줌으로써 보행 중 교통사고를 예방한다.
 
 ## 1. 프로젝트 개요
----
 2020년 3월 25일부터 민식이 법이 시행되고 있다. 하지만 민식이법 개정 이후에도 교통사고 건 수와 부상자 수 변함이 없었다.
 
 <img src="https://github.com/qor6/SoftWare/assets/88486391/bab2f84c-7f51-45e0-b24e-faef1cbc7b43" alt="교통사고"  width="70%" height="60%" ></img>
@@ -20,7 +19,6 @@
 
 
 ## 2. 개발 모듈
----
 <img src="https://github.com/qor6/SoftWare/assets/88486391/4545c4b9-76d8-4ec7-bfe1-3601fd295d49" alt="과정"></img>
 
 (1) YOLOv5
