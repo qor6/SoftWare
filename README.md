@@ -47,6 +47,6 @@
   - 개발 결과
   > <img src="https://github.com/qor6/SoftWare/assets/88486391/a5d7dca6-63ea-4501-af59-bfb005043bb2"  width="40%" height="30%" alt="Openpose"></img>
 
-
+  - 개발 기간 (3학년 1학기)
 
 
