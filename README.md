@@ -43,7 +43,6 @@
   > 3. 사람의 어깨부터 팔꿈치, 팔꿈치부터 손까지의 각도 측정
   > 4. 각도가 수직이거나 예각이면 스마트폰을 하고 있다고 인식
 
-
   - 개발 결과
   > <img src="https://github.com/qor6/SoftWare/assets/88486391/a5d7dca6-63ea-4501-af59-bfb005043bb2"  width="40%" height="30%" alt="Openpose"></img>
 
